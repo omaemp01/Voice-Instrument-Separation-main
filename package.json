@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "dev": "expo start"
+  },
   "dependencies": {
-    "@expo-google-fonts/inter": "^0.2.3"
+    "@expo-google-fonts/inter": "^0.2.3",
+    "expo": "~50.0.4",
+    "expo-font": "~11.10.2"
   }
 }
